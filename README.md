@@ -1,3 +1,5 @@
+[![Masterhead](<iframe src="https://giphy.com/embed/3o72FaZgzzFmqoNfBm" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monstercat-edm-electronic-music-3o72FaZgzzFmqoNfBm">via GIPHY</a></p>)]
+
 <h1 align="center">Bonjour, I'm nathan</h1>
 <h3 align="center">I'm here to revolutionize the world of coding, one line at a time. I'm not your average developer - I'm a self-proclaimed coding ninja, a keyboard wizard, and a debugging sorcerer.</h3>
 
