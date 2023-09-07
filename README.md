@@ -1,6 +1,8 @@
 <h1 align="center">Bonjour, I'm nathan</h1>
 <h3 align="center">I'm here to revolutionize the world of coding, one line at a time. I'm not your average developer - I'm a self-proclaimed coding ninja, a keyboard wizard, and a debugging sorcerer.</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/6tXM.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanndk&label=Profile%20views&color=0e75b6&style=flat" alt="nathanndk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathanndk" alt="nathanndk" /></a> </p>
