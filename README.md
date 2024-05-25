@@ -1,5 +1,5 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RyZ29nY21sczJtZDV5MHkwcnF1OXQzNW9ndnp0dDJybnAxMHptNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FaZgzzFmqoNfBm/giphy.gif" alt="first" width="100%"/>
-<h1 align="center">Bonjour, I'm Nathan</h1>
+<h1 align="center">Bonjour, I'm Nathan!</h1>
 <h3 align="center">Revolutionizing the world of coding, one line at a time. I'm not your average developer - I'm a coding ninja, a keyboard wizard, and a debugging sorcerer.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/nathanndk/nathanndk/assets/90740297/00c1e27d-b7c0-4121-874d-e178ee63720e" />
 <p align="left">
