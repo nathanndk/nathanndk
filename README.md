@@ -104,6 +104,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanndk&show_icons=true&locale=en" alt="nathanndk" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanndk&" alt="nathanndk" />
-</p>
