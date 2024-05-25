@@ -4,9 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/nathanndk/nathanndk/assets/90740297/00c1e27d-b7c0-4121-874d-e178ee63720e" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nathanndk&label=Profile%20views&color=0e75b6&style=flat" alt="nathanndk" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nathanndk" alt="nathanndk" />
-  </a>
+  
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
