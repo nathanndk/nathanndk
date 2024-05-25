@@ -101,6 +101,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanndk&show_icons=true&locale=en&layout=compact" alt="nathanndk" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanndk&show_icons=true&locale=en" alt="nathanndk" />
-</p>
